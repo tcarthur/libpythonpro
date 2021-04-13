@@ -5,6 +5,8 @@ Nesese curso é ensinado como contribuir com projetos de código aberto
 
 Link do curso [Python Pro](https://python.pro.br/)
 
+[![Build Status](https://www.travis-ci.com/tcarthur/libpythonpro.svg?branch=main)](https://www.travis-ci.com/tcarthur/libpythonpro)
+
 Suportado versão 3 de Python
 
 Para instalar:
