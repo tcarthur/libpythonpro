@@ -8,3 +8,6 @@ script:
   - pytest libpythonpro --cov=libpythonpro
 after_success:
   - codecov
+
+codecov:
+  token: a054a633-cc8f-4eb3-a32f-8fdeeaaa639a
