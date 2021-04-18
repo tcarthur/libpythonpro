@@ -10,13 +10,14 @@ more-itertools==4.1.0
 six==1.11.0
 attrs==18.1.0
 pluggy==0.6.0
-pytest-6.2.3
-pytest-mock-3.5.1
-packaging-20.9
+pytest==6.2.3
+pytest-mock==3.5.1
+packaging==20.9
 
 
 #Converage
 coverage==4.5.1
 pytest-cov==2.5.1
+codecov==2.1.11
 
 -r requirements.txt
