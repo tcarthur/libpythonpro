@@ -18,6 +18,5 @@ packaging==20.9
 #Converage
 coverage==4.5.1
 pytest-cov==2.5.1
-codecov==2.1.11
 
 -r requirements.txt
