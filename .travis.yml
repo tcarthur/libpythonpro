@@ -2,7 +2,7 @@ language: python
 python:
   - 3.9
 install:
-  - pip install pipenv -pipenv codecov
+  - pip install pipenv pipenv codecov
   - pipenv sync --dev
 script:
   - flake8
