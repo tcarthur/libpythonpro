@@ -1,8 +1,9 @@
 language: python
 python:
-  - 3.6
+  - 3.9
 install:
-  - pip install -r requirements-dev.txt codecov
+  - pip install pipenv -q -pipenv codecov
+  - pipenv synnc --dev
 script:
   - flake8
   - pytest libpythonpro --cov=libpythonpro
